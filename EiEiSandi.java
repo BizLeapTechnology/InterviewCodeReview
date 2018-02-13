@@ -27,4 +27,5 @@ public class EiEiSandi {
 - There is a bug // line 19
 - substring() is not properly used
 - line 9 got error
+- 5 of 10
  */
