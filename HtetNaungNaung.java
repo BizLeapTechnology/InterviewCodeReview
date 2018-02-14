@@ -7,24 +7,26 @@ public class HtetNaungNaung {
         StringTokenizer st =new StringTokenizer(data);
         Vector v=new Vector();
         while(st.hasMoreTokens()){
-            v.add(st.nextToken()).toString());
+            v.add(st.nextToken().toString());
             for(int i=v.size()-1;i>=0;i--){
                 if(i==0)
                     System.out.print(v.elementAt(i) + " ");
                 else System.out.print(v.elementAt(i)+" ");
             }
+            System.out.println();
         }
     }
 
     public static void main(String[] args) {
-        reverseString("First Middle Last");
+        reverseString("First Second Third Fourth");
     }
 }
 
 /*
 - Pass Testing
+- 2nd Part - Pass
 - Follow Naming Convention
 - a syntax error in line 10  v.add(st.nextToken()).toString());
-- 9 of 10
+- 8 of 10
  */
 

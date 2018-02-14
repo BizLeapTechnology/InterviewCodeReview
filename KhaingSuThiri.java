@@ -14,6 +14,7 @@ public class KhaingSuThiri {
 
 /*
 - Pass Testing
+- 2nd Part - Pass
 - Follow Naming Convention
 - 10 of 10
  */

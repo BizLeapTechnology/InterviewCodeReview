@@ -20,6 +20,7 @@ public class ZinMayHnin {
 }
 /*
 - Pass Testing
+- 2nd Part - Fail
 - Follow naming convention
-- 10 of 10
+- 8 of 10
  */

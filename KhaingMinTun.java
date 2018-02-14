@@ -14,5 +14,6 @@ public class KhaingMinTun {
 }
 /*
 - Pass Test
+- 2nd Part - Pass
 - 10 of 10
  */

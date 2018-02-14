@@ -16,5 +16,6 @@ public class HtetHtetSan {
 }
 /*
 - Pass Testing
+- 2nd Part - Pass
 - 10 of 10
  */

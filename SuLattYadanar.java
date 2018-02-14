@@ -1,7 +1,7 @@
 public class SuLattYadanar {
     public static void main(String args[]) {
         System.out.println("Enter Your Name");
-        String name = "First Middle Last";
+        String name = "First Second Third Fourth";
         reverseStringByWords(name);
     }
 
@@ -17,6 +17,7 @@ public class SuLattYadanar {
 
 /*
 - Pass Testing
+- 2nd Part - Pass
 - Follow Naming Convention
 - 10 of 10
  */

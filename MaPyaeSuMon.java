@@ -10,12 +10,13 @@ public class MaPyaeSuMon {
     }
 
     public static void main(String[] args) {
-        reverserNameFunction("First Middle Last");
+        reverserNameFunction("First Second Third Fourth");
     }
 }
 
 /*
 - Pass Testing
+- 2nd Part - Pass
 - Does not follow Naming Convention
 - 9 of 10
  */

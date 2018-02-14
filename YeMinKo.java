@@ -13,6 +13,7 @@ public class YeMinKo {
 }
 /*
 - Pass Testing
+- 2nd Part - Pass
 - Follow naming convention
 - 10 of 10
  */

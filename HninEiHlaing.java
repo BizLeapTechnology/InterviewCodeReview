@@ -3,7 +3,7 @@ import java.util.StringTokenizer;
 
 public class HninEiHlaing {
     public static void main(String[] args) {
-        String s = "First Middle Last";
+        String s = "First Second Third Fourth";
 
         Stack<String> myStack = new Stack<String>();
         StringTokenizer st = new StringTokenizer(s);
@@ -20,5 +20,6 @@ public class HninEiHlaing {
 }
 /*
 - Pass Testing
+- 2nd Part - Pass
 - 10 of 10
  */
